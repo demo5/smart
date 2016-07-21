@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/dialog_choose_date_time.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/dialog_choose_date_time.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_device_ap.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_device_ap.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/item_wifi_list.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/item_wifi_list.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_log.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_device_log.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qtest.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_qtest.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/item_cmd.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/item_cmd.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_base.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_base.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_device_log.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_device_log.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_qtest.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_qtest.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_air_link.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_air_link.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qmultiline.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_qmultiline.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_spn_wifi.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\item_spn_wifi.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_forget_password.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_air_link.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_air_link.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_send_cmd.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_send_cmd.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_bind_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_bind_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gokit_control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_gokit_control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_log.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\item_device_log.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_version.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_version.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_captchacode.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_captchacode.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_qmultiline.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_qmultiline.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_control_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_control_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_list.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\item_wifi_list.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_cmd.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_send_cmd.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_password.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_device_control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_new_device_control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/item_device_log.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/item_device_log.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/menu_new.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/menu_new.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cmd.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\item_cmd.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_control_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\menu_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/menu_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/menu_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/dialog_capthacode.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/dialog_capthacode.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_version.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_version.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_set_wifi.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\dialog_set_wifi.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_new_device_control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_new_device_control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_ap.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_device_ap.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captchacode.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_captchacode.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bind_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_bind_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/item_spn_wifi.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/item_spn_wifi.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_capthacode.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\dialog_capthacode.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_choose_date_time.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\dialog_choose_date_time.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_gokit_control.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_gokit_control.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/item_device.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/item_device.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_new.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\layout\\menu_new.xml"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/layout/dialog_set_wifi.xml",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/layout/dialog_set_wifi.xml"
+    }
+]

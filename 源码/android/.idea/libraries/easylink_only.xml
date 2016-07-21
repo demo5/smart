@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="easylink_only">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/easylink_only.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

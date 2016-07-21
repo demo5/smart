@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yoking/Desktop/智能车库/源码/android/app/libs/simpleconfiglib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6a0393f607d6969fc67e03bc713f9d70bb167cbd">
+        <dex dex="/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/pre-dexed/debug/simpleconfiglib_efffa3d22a9b5fe05b60063e993e21f506fae143.jar" />
+    </item>
+    <item
+        jar="/Users/yoking/Desktop/智能车库/源码/android/app/libs/libEsptouch_v0.3.3.4_3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6e8b3a0511138e611f11abb6efa72d648c8f399c">
+        <dex dex="/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/pre-dexed/debug/libEsptouch_v0.3.3.4_3_215807f3ff60102b1c54fabe6be21f1cda7fcf96.jar" />
+    </item>
+    <item
+        jar="/Users/yoking/Desktop/智能车库/源码/android/app/libs/easylink_only.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f2d8275600cf3a079679fbfb32eff1dac31fef06">
+        <dex dex="/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/pre-dexed/debug/easylink_only_0b5e01150197890cb01bb477e02c8b90e633808f.jar" />
+    </item>
+    <item
+        jar="/Users/yoking/Desktop/智能车库/源码/android/app/libs/XPGWifiSDK.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="55a9dedfa94b07f3496778e719449f5f5cbff69c">
+        <dex dex="/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/pre-dexed/debug/XPGWifiSDK_27efe6219b0e99b0e62137e7935f810039de0824.jar" />
+    </item>
+
+</items>

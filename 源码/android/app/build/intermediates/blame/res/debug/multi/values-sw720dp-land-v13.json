@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

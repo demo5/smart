@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yoking/Desktop/智能车库/源码/android/app/src/main/jniLibs"><file name="armeabi/libsimpleconfiglib.so" path="/Users/yoking/Desktop/智能车库/源码/android/app/src/main/jniLibs/armeabi/libsimpleconfiglib.so"/><file name="armeabi/libXPGConnect.so" path="/Users/yoking/Desktop/智能车库/源码/android/app/src/main/jniLibs/armeabi/libXPGConnect.so"/></source></dataSet><dataSet config="debug"><source path="/Users/yoking/Desktop/智能车库/源码/android/app/src/debug/jniLibs"/></dataSet></merger>

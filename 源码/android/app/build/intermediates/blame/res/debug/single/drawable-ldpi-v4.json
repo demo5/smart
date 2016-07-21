@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_press.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\drawable-ldpi\\btn_press.png"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_press.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/drawable-ldpi/btn_press.png"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_normal.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\drawable-ldpi\\btn_normal.png"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/btn_normal.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/drawable-ldpi/btn_normal.png"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/E:\\AndroidStudioProjects1\\gokit-android-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yoking/Desktop/智能车库/源码/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/yoking/Desktop/智能车库/源码/android/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
